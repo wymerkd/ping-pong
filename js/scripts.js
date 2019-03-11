@@ -28,3 +28,6 @@ $(document).ready(function() {
     });
   });
 });
+
+//Better way to fade in results?
+//Refresh button or re-submit?

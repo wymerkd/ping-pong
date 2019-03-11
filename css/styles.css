@@ -1,3 +1,13 @@
 #result {
   display: none;
 }
+
+body {
+  background-color: #42a7f4;
+  font-family: 'Russo One', cursive;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 60px;
+}
