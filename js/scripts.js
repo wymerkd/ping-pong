@@ -22,7 +22,7 @@ $(document).ready(function() {
     var result = countTo(userNumber);
 
     result.forEach(function(userNumber) {
-      $("#result").append("<li> " + userNumber + "</li>");
+      $("#result").append("<p>" + userNumber + "</p>");
       $("#result").fadeIn(2000);
       $("#result").show();
     });
